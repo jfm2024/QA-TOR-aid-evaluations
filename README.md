@@ -1,5 +1,5 @@
 # Project Overview
-This repository contains resources and guidelines to quality assure Terms of Reference (ToR) for development aid evaluations. The aim is to ensure that ToR for evaluations of this type meet high quality standards.
+This repository contains resources and guidelines to quality assure Terms of Reference (ToR) for development aid evaluations. 
 
 This README provides:
 
