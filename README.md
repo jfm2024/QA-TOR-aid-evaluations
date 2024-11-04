@@ -110,7 +110,7 @@ Provide your evaluation in markdown, including scores, comments, and any additio
 
 ## Python Script 
 
-This Python script automates the assessment of ToR using the same structured scoring guide as in the prompt above, but with some additional features. It uses OpenAI's API to quality assure and score the document, and to generate feedback from two additional perspectives. The script also includes a readability function. Here’s an overview of the script’s functionality:
+This Python script automates the assessment of ToR using the same structured scoring guide as in the prompt above, but with some additional features. It uses OpenAI's API to quality assure and score the document, and to generate feedback from two additional perspectives. The script also includes a readability function. 
 
 #### Key Components
 
